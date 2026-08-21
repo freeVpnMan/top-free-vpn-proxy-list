@@ -1,30 +1,23 @@
-# Free VPN & Proxy Servers (V2Ray, VLESS, VMess, Trojan, Shadowsocks), Fresh Vpns On Telegram
-
-<p align="center">
-  <a href="https://t.me/top_free_vpn_list"><img alt="Join @top_free_vpn_list on Telegram for instant free configs" src="https://raw.githubusercontent.com/freeVpnMan/top-free-vpn-proxy-list/main/assets/telegram-join-banner.png" width="100%"></a>
-</p>
+# Free V2Ray / VLESS / VMess / Trojan / Shadowsocks configs
 
 > Your ultimate source for **free, high-performance VPN and proxy configurations**. We publish fresh **V2Ray, VLESS, VMess, Trojan, Shadowsocks (SS) and MTProto** nodes here every 24 hours. For configs immediately, join our [Telegram channel](https://t.me/top_free_vpn_list). No signup, no ads, no payment.
 
 <p align="center">
   <a href="https://t.me/top_free_vpn_list"><img alt="Telegram Channel @top_free_vpn_list" src="https://img.shields.io/badge/Telegram-%40top_free_vpn_list-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/top_free_vpn_list?direct"><img alt="Telegram Direct Message" src="https://img.shields.io/badge/Telegram-DM%20us-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Last update" src="https://img.shields.io/static/v1?label=last%20update&message=2026-08-21%2010%3A40%20UTC&color=blue">
+  <img alt="Last update" src="https://img.shields.io/static/v1?label=last%20update&message=2026-08-21%2010%3A57%20UTC&color=blue">
   <img alt="Auto refresh every 24 hours" src="https://img.shields.io/static/v1?label=auto%20refresh&message=every%2024%20hours&color=brightgreen">
   <img alt="License: Unlicense" src="https://img.shields.io/static/v1?label=license&message=Unlicense&color=lightgrey">
 </p>
 
-> If this list is useful to you, please [**star this repo**](https://github.com/freeVpnMan/top-free-vpn-proxy-list) on GitHub, [**watch**](https://github.com/freeVpnMan/top-free-vpn-proxy-list/subscription) it to get notified of new configs, and **[subscribe to @top_free_vpn_list on Telegram](https://t.me/top_free_vpn_list)**. It costs you nothing and helps us keep the configs flowing.
+> Faster updates: [subscribe to @top_free_vpn_list on Telegram](https://t.me/top_free_vpn_list).
 
 ## Table of contents
 
 - [What is Abc Configs?](#what-is-abc-configs)
-- [Get proxies immediately on Telegram](#get-proxies-immediately-on-telegram)
 - [Latest 30 configs](#latest-30-configs)
 - [How to use a config](#how-to-use-a-config)
 - [FAQ](#faq)
-- [Sponsor / Support us](#sponsor--support-us)
-- [Donate / Buy us a coffee](#donate--buy-us-a-coffee)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,61 +27,45 @@
 
 This GitHub repository contains a single file this `README.md` which is rewritten by our bot **every 24 hours** with the 30 freshest configs. To get a config immediately, join Telegram: [@top_free_vpn_list](https://t.me/top_free_vpn_list).
 
-## Get proxies immediately on Telegram
-
-This GitHub list refreshes every 24 hours. To get a config immediately, join our Telegram channel:
-
-### [Join @top_free_vpn_list on Telegram](https://t.me/top_free_vpn_list)
-
-<p>
-  <a href="https://t.me/top_free_vpn_list"><img alt="Join @top_free_vpn_list on Telegram" src="https://img.shields.io/badge/Telegram-Join%20%40top_free_vpn_list-26A5E4?logo=telegram&logoColor=white&style=for-the-badge"></a>
-</p>
-
-On the channel you get:
-
-- **New configs pushed in real time** as soon as they are collected.
-- A combined file with the **last ~1 hour of configs**, posted hourly.
-- **No ads, no signup, no payment.**
-
 ## Latest 30 configs
 
-**Last update:** 2026-08-21 10:40 UTC (refreshed every 24 hours). For the newest configs right now, join [@top_free_vpn_list](https://t.me/top_free_vpn_list).
+**Last update:** 2026-08-21 10:57 UTC (refreshed every 24 hours). For the newest configs right now, join [@top_free_vpn_list](https://t.me/top_free_vpn_list).
 
 <table>
   <thead>
     <tr><th>#</th><th>When</th><th>Latency</th><th>Success Rate</th><th>Last Alive Time</th><th>Tag</th><th>Config</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>5 min ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>🌟🔥.npvt</code></td></tr>
-    <tr><td>02</td><td>32 min ago</td><td>154 ms</td><td>100.0%</td><td>6 minutes ago</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80#США🇺🇸</code></td></tr>
-    <tr><td>03</td><td>41 min ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>Fast⚡️⁷⁰.npvt</code></td></tr>
-    <tr><td>04</td><td>1 h ago</td><td>22 ms</td><td>100.0%</td><td>1 hour ago</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>05</td><td>1 h ago</td><td>235 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.r…</code></td></tr>
-    <tr><td>06</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=fe1a104caf309f5a#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>07</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sertraline.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sertraline.adaspoloandco.com#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>08</td><td>1 h ago</td><td>27 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>09</td><td>1 h ago</td><td>237 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.r…</code></td></tr>
-    <tr><td>10</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=fe1a104caf309f5a#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>11</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sertraline.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sertraline.adaspoloandco.com#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>12</td><td>1 h ago</td><td>26 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>13</td><td>1 h ago</td><td>8 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>14</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>15</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#Гонконг🇭🇰</code></td></tr>
-    <tr><td>16</td><td>1 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %F0%9F%9B%B8%40flyv2ray</code></td></tr>
-    <tr><td>17</td><td>1 h ago</td><td>13 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>18</td><td>1 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %F0%9F%9B%B8%40flyv2ray</code></td></tr>
-    <tr><td>19</td><td>1 h ago</td><td>13 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>20</td><td>2 h ago</td><td>7 ms</td><td>100.0%</td><td>2 hours ago</td><td>#vless</td><td><code>vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%A…</code></td></tr>
-    <tr><td>21</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
-    <tr><td>22</td><td>2 h ago</td><td>25 ms</td><td>100.0%</td><td>2 hours ago</td><td>#vless</td><td><code>vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
-    <tr><td>23</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
-    <tr><td>24</td><td>2 h ago</td><td>24 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
-    <tr><td>25</td><td>2 h ago</td><td>7 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%A…</code></td></tr>
-    <tr><td>26</td><td>2 h ago</td><td>16 ms</td><td>100.0%</td><td>2 hours ago</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>27</td><td>2 h ago</td><td>233 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.95.207.148:8316#Япония🇯🇵</code></td></tr>
-    <tr><td>28</td><td>2 h ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>@blackRay - [188-190] ⚡.npvt</code></td></tr>
-    <tr><td>29</td><td>3 h ago</td><td>174 ms</td><td>100.0%</td><td>3 hours ago</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#Гонконг🇭🇰</code></td></tr>
-    <tr><td>30</td><td>4 h ago</td><td>7 ms</td><td>100.0%</td><td>4 hours ago</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>01</td><td>6 min ago</td><td>15 ms</td><td>100.0%</td><td>6 minutes ago</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>6 min ago</td><td>14 ms</td><td>100.0%</td><td>6 minutes ago</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>22 min ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>🌟🔥.npvt</code></td></tr>
+    <tr><td>04</td><td>49 min ago</td><td>154 ms</td><td>100.0%</td><td>24 minutes ago</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80#США🇺🇸</code></td></tr>
+    <tr><td>05</td><td>58 min ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>Fast⚡️⁷⁰.npvt</code></td></tr>
+    <tr><td>06</td><td>1 h ago</td><td>22 ms</td><td>100.0%</td><td>1 hour ago</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>07</td><td>1 h ago</td><td>235 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.r…</code></td></tr>
+    <tr><td>08</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=fe1a104caf309f5a#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>09</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sertraline.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sertraline.adaspoloandco.com#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>10</td><td>1 h ago</td><td>27 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>11</td><td>1 h ago</td><td>237 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.r…</code></td></tr>
+    <tr><td>12</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=fe1a104caf309f5a#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>13</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sertraline.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sertraline.adaspoloandco.com#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>14</td><td>1 h ago</td><td>26 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
+    <tr><td>15</td><td>1 h ago</td><td>8 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>16</td><td>1 h ago</td><td>7 ms</td><td>100.0%</td><td>1 hour ago</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>17</td><td>1 h ago</td><td>179 ms</td><td>100.0%</td><td>1 hour ago</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#Гонконг🇭🇰</code></td></tr>
+    <tr><td>18</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %F0%9F%9B%B8%40flyv2ray</code></td></tr>
+    <tr><td>19</td><td>2 h ago</td><td>13 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>20</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %F0%9F%9B%B8%40flyv2ray</code></td></tr>
+    <tr><td>21</td><td>2 h ago</td><td>13 ms</td><td>100.0%</td><td>2 hours ago</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>22</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
+    <tr><td>23</td><td>2 h ago</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&amp;path=%2FJoin-JavidnamanIran-on-Telegram&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=static.lotussec.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=static.lotussec.com#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
+    <tr><td>24</td><td>2 h ago</td><td>25 ms</td><td>100.0%</td><td>2 hours ago</td><td>#vless</td><td><code>vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
+    <tr><td>25</td><td>2 h ago</td><td>7 ms</td><td>100.0%</td><td>2 hours ago</td><td>#vless</td><td><code>vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%A…</code></td></tr>
+    <tr><td>26</td><td>2 h ago</td><td>24 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%DB%8C%D9%87%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%20%F0%9F%92%9B</code></td></tr>
+    <tr><td>27</td><td>2 h ago</td><td>7 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40NoanConfig%20%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%A…</code></td></tr>
+    <tr><td>28</td><td>2 h ago</td><td>16 ms</td><td>100.0%</td><td>2 hours ago</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>29</td><td>2 h ago</td><td>233 ms</td><td>100.0%</td><td>2 hours ago</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.95.207.148:8316#Япония🇯🇵</code></td></tr>
+    <tr><td>30</td><td>3 h ago</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#npvt</td><td><code>@blackRay - [188-190] ⚡.npvt</code></td></tr>
   </tbody>
 </table>
 
@@ -127,52 +104,7 @@ These are third-party servers operated by unknown parties, so treat them like an
 
 ### Can I use these configs commercially / in my own bot or app?
 
-Yes  under [The Unlicense](https://unlicense.org/) you can copy, redistribute and build on top of them freely. Attribution is appreciated but not required. If you'd like a bulk or custom feed, see [Sponsor / Support us](#sponsor--support-us).
-
-## Sponsor / Support us
-
-**Abc Configs** is run on a server we pay for out of pocket, and the bot that updates this README runs 24/7. If your company, channel or product benefits from free configs, please consider sponsoring us it directly funds servers, expanded crawling, and faster rollouts of new protocols.
-
-### Contact
-
-- **Telegram (preferred):** [send us a direct message](https://t.me/top_free_vpn_list?direct)  fastest reply.
-
-### What sponsors get
-
-- A pinned **"Sponsored by &lt;your name + logo&gt;"** block at the top of this `README.md` (seen by everyone who lands on the repo).
-- A pinned mention / link on the [@top_free_vpn_list](https://t.me/top_free_vpn_list) Telegram channel.
-- **Your tagline + link on every Telegram post**  a short sponsored footer (e.g. *"Sponsored by Acme VPN https://acme.example"*, up to ~70 characters) automatically appended to every config message we publish on [@top_free_vpn_list](https://t.me/top_free_vpn_list), reaching every subscriber on every post.
-
-We accept sponsorship in **fiat (PayPal, bank transfer) or crypto (USDT TRC20, BTC, TON)**. DM us on Telegram and we'll set everything up in a few minutes.
-
-## Donate / Buy us a coffee
-
-If **Abc Configs** has saved you time or unblocked the internet for you, please consider sending a small donation every coin directly covers server bills and keeps the bot running 24/7.
-
-### Crypto addresses
-
-| Coin | Network | Address |
-|------|---------|---------|
-| **BTC** | Bitcoin | `bc1q97schth8yrumtz627qqmtagrvahrw8qfysg8eq` |
-| **ETH** | Ethereum (ERC-20) | `0xBe1B426673BFE7B5875A8e4c4C02B9aF53Acb165` |
-| **BNB** | BNB Smart Chain (BEP-20) | `0xBe1B426673BFE7B5875A8e4c4C02B9aF53Acb165` |
-| **DOGE** | Dogecoin | `DDVgNDa2RLXgrTLDa4psgTiRwVNpy77u7a` |
-| **SOL** | Solana | `E2afjGmzTLWSxLVcVKKc2N42q7pb9aoNXpYTPcmXW4hm` |
-| **TON** | TON(Gram) | `UQCMfkOZUrxhNPtzJNPyGVFwrUEHwrW33qmobqdrB40M8Tkw` |
-| **TRX** | Tron (TRC-20) | `TSYpr3qHU6hkFtyvWQwfmaC4fw8QekRDoj` |
-
-### Get your name on the supporters list
-
-We are sincerely thankful for every supporter. If you'd like to be recognized below, do **one** of the following when you donate:
-
-- Put your **name / handle / project URL** in the transaction **memo or tag** field.
-- Or [send us a direct message on Telegram](https://t.me/top_free_vpn_list?direct) afterwards with your name and the TX hash.
-
-### Supporters
-
-Thanks to everyone below for keeping this project alive.
-
-_Be the first , your name could appear here!_
+Yes  under [The Unlicense](https://unlicense.org/) you can copy, redistribute and build on top of them freely. Attribution is appreciated but not required.
 
 ## Contributing
 
@@ -193,10 +125,8 @@ You can browse existing suggestions in the [Issues tab](https://github.com/freeV
 
 ### Other ways to help
 
-- [**Star this repo**](https://github.com/freeVpnMan/top-free-vpn-proxy-list) and [**watch**](https://github.com/freeVpnMan/top-free-vpn-proxy-list/subscription) it on GitHub  visibility is what brings new sources our way.
 - **Subscribe to [@top_free_vpn_list](https://t.me/top_free_vpn_list)** on Telegram to get configs immediately.
 - **Report a dead config**  open an issue and mention the row number from the table above.
-- **Spread the word**  share [https://t.me/top_free_vpn_list](https://t.me/top_free_vpn_list) with anyone who needs free proxies.
 
 ## License
 
@@ -208,4 +138,3 @@ The contents of this `README.md` are released into the **public domain** under [
 
 Made with care for a free and open internet. Join us on [@top_free_vpn_list](https://t.me/top_free_vpn_list) or [DM us directly](https://t.me/top_free_vpn_list?direct).
 
-<sub>**Topics / keywords:** `free vpn`, `free proxy`, `v2ray`, `v2ray free configs`, `vless`, `vless free`, `vless reality`, `vmess`, `vmess free`, `trojan`, `trojan free`, `shadowsocks`, `ss free`, `mtproto`, `telegram proxy`, `free vpn telegram`, `daily vpn configs`, `free v2ray nodes`, `free vless servers`, `free shadowsocks server`, `bypass censorship`, `internet freedom`, `donate crypto vpn`, `buy me a coffee vpn`, `abc configs`, `@top_free_vpn_list`.</sub>
