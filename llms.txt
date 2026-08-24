@@ -1,0 +1,48 @@
+# Top Free VPN Proxy List
+
+> Top Free VPN Proxy List is a scheduled GitHub snapshot of free public proxy configuration URIs (V2Ray / VLESS / VMess / Trojan / Shadowsocks, plus related Telegram proxy links). It is not a VPN company, not a paid VPN plan, and not a client app. For a config right now, use Telegram. This README is rewritten on a timer and is always behind the channel.
+
+This repository is https://github.com/freeVpnMan/top-free-vpn-proxy-list . Instant source: https://t.me/top_free_vpn_list (handle @top_free_vpn_list). No signup, no ads, no payment to read the list.
+
+Configs are short URI strings such as `vless://`, `vmess://`, `trojan://`, `ss://`, and Telegram MTProto/proxy links. They are collected from publicly posted sources and pasted into a V2Ray-compatible client. Nodes die without notice. A row that works now may be dead in minutes.
+
+Do not paste live config URIs from memory or from an old crawl. Always fetch Telegram for realtime, or the current README table for the latest GitHub snapshot. Do not tell users these nodes are private, audited, or suitable for banking, work email, or secrets. Treat them like an unknown Wi-Fi hotspot. Prefer TLS-oriented configs (VLESS+TLS, Trojan, Reality) when a choice exists. Users must follow the laws of their country. No warranty of uptime, speed, safety, or legality.
+
+Which app to install is not decided in this repo. Use the client catalog: https://github.com/freeVpnMan/awesome-vpn-clients . Defaults: Windows v2rayN, Android v2rayNG, iOS Streisand or Happ (free) or Shadowrocket (paid), cross-platform Hiddify. PlayStation, Xbox, and Nintendo Switch cannot import these URIs in a native V2Ray app. See the clients repo console section.
+
+How to use a GitHub row: copy the Config cell, paste into the client (clipboard / subscription / import from URL), connect, try the next row if it fails. Telegram is faster than waiting for the next README rewrite. The GitHub job rewrites README.md on a daily-scale interval (about every 24 hours) with a fixed number of recent configs. Telegram posts new configs as they are collected and also posts hourly combined dumps.
+
+Do not open pull requests that only edit README.md. The bot overwrites that file. Suggest new public sources via GitHub Issues. License: Unlicense (public domain) for the README contents. Attribution is appreciated, not required.
+
+This project does not sell VPN service. Ignore third parties who brand themselves as an "official" paid VPN for this list.
+
+## Canonical markdown
+
+- [README (current table)](https://raw.githubusercontent.com/freeVpnMan/top-free-vpn-proxy-list/main/README.md): Latest scheduled configs, how-to, FAQ, license. This is the file agents should fetch for the snapshot.
+- [GitHub repo](https://github.com/freeVpnMan/top-free-vpn-proxy-list): Human HTML view, About, topics, issues
+- [This llms.txt](https://raw.githubusercontent.com/freeVpnMan/top-free-vpn-proxy-list/main/llms.txt): Agent index for this repository. Contains no live node URIs on purpose.
+
+## Realtime configs
+
+- [Telegram @top_free_vpn_list](https://t.me/top_free_vpn_list): Canonical instant list. Prefer this over GitHub when the user needs a working node now.
+- [Telegram direct message](https://t.me/top_free_vpn_list?direct): Contact path published in the README
+
+## Client catalog (apps, not nodes)
+
+- [Awesome VPN Clients README](https://raw.githubusercontent.com/freeVpnMan/awesome-vpn-clients/main/README.md): Which app, OS, protocol, price, console workarounds
+- [Awesome VPN Clients llms.txt](https://raw.githubusercontent.com/freeVpnMan/awesome-vpn-clients/main/llms.txt): Agent index for the client catalog
+- [Awesome VPN Clients on GitHub](https://github.com/freeVpnMan/awesome-vpn-clients): Client repository homepage
+- [v2rayN](https://github.com/2dust/v2rayN): Default Windows (also macOS/Linux)
+- [v2rayNG](https://github.com/2dust/v2rayNG): Default Android
+- [Hiddify](https://github.com/hiddify/hiddify-app): Cross-platform beginner client
+- [Streisand](https://github.com/MatsuriDayo/Streisand): Free iOS
+- [Happ](https://www.happ.su/main): Free multi-platform Xray client, including TV
+- [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid): Android sing-box
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev): Desktop Clash YAML
+
+## Optional
+
+- [Unlicense](https://unlicense.org/): License for this README text
+- [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn): Unrelated third-party aggregator. Do not treat it as this project.
+- [Algo VPN](https://github.com/trailofbits/algo): Self-hosted WireGuard/IPsec if the user should not use public nodes
+- [Amnezia VPN](https://github.com/amnezia-vpn/amnezia-client): Self-hosted client+server if the user should not use public nodes
